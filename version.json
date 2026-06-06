@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "versionName": "1.0.0",
   "apkUrl": "https://github.com/onetoner/aufwandsapp-download/releases/download/live/aufwandsapp.apk",
-  "notes": "HT-Rohr jetzt pro Stück in Längen (150–3000 mm); Größe ist beim Materialwählen nicht mehr vorausgewählt; kleinere Verbesserungen in der Material-DB."
+  "notes": "Eigener Daten-Tab (mehr Überblick im Bericht), Monteure neben den Stunden, moderneres PDF (farbige Überschriften, WW/KW-Checkboxen), Skizze auf den bemalten Bereich zugeschnitten, zuletzt verwendete Materialien oben im Picker."
 }
