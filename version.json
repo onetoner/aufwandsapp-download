@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "versionName": "1.0.0",
   "apkUrl": "https://github.com/onetoner/aufwandsapp-download/releases/download/live/aufwandsapp.apk",
-  "notes": "Eigener Daten-Tab (mehr Überblick im Bericht), Monteure neben den Stunden, moderneres PDF (farbige Überschriften, WW/KW-Checkboxen), Skizze auf den bemalten Bereich zugeschnitten, zuletzt verwendete Materialien oben im Picker."
+  "notes": "Stabilität: WLAN-Backup im Release behoben, Daten werden absturzsicher gespeichert (kein Verlust bei Abbruch), PDF gegen Sonderzeichen abgesichert, Skizze-Export schneller."
 }
